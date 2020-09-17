@@ -1,0 +1,35 @@
+N-01-SN-01
+JN/01/01/2018
+
+kode pertama untuk bulan
+
+Januari		JN
+Februari	FB
+Maret		MR
+April		AP
+Mei		ME
+Juni		JN
+Juli		JL
+Agustus		AG
+September	SP
+Oktober		OT
+November	NV
+Desember	DS
+
+Kode kedua untuk tanggal
+
+
+Kode ketiga untuk hari
+
+senin		SN
+selasa		SL
+rabu		RB
+kamis		KM
+jumat		JM
+sabtu		SB
+minggu		MG
+
+Kode ke empat untuk nomor urut tayang
+
+kode ke lima untuk tahun
+
